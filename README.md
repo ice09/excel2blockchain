@@ -18,5 +18,7 @@ In this demo data from an Excelsheet is pushed into a Smart Contract deployed on
 # Run
 
 * Start Ganache with mnemonic `candy maple cake sugar pudding cream honey rich smooth crumble sweet treat`
-* Build project with `mvn clean package`
-* Change to directory target and start application with `java -jar `
+* Import as Maven project in IDE and launch Main class 
+or 
+* Build project with `mvn clean install`
+* Change to directory target and start application with `java -jar excel2blockchain-1.0-SNAPSHOT-jar-with-dependencies.jar`
