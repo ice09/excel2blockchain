@@ -2,6 +2,8 @@
 
 In this demo data from an Excelsheet is pushed into a Smart Contract deployed on a Ethereum chain. The demo includes compilation and deployment of the Smart Contract. The chain is configured in the Java source code for simplicity, samples for Ganache/TestRPC and Rinkeby/Infura are included.
 
+[docs/img/overview.png]
+
 # Prerequisites
 
 * Ganache (or any other Ethereum Node or Infura)
