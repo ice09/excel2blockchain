@@ -1,6 +1,7 @@
 # Excel2Blockchain
 
 In this demo data from an Excelsheet is pushed into a smart contract deployed on a Ethereum chain. The demo includes compilation and deployment of the smart contract. The chain is configured in the Java source code for simplicity, samples for Ganache/TestRPC and Rinkeby/Infura are included.
+_Do not use this code in production (Mainnet) or any public testnets if you don't want your Excel data to be publicly readable by everyone! This is solely for training purposes._
 
 ![Integration overview](docs/img/overview.png)
 
